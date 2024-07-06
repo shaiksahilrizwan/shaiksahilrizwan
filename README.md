@@ -1,5 +1,5 @@
 ### Hi there 👋
-**shaiksahilrizwan/shaiksahilrizwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shaiksahilrizwan/shaiksahilrizwan** is a ✨ _special_ ✨ repository because its `README.md`.
 Here are some ideas to get you started:
 - 🔭 I’m Studying ...Btech Computer Science
 - 🌱 I’m currently learning ...Django
